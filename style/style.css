@@ -1,0 +1,93 @@
+*{margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(229, 229, 229);
+    display: grid;
+    justify-content: center;
+}
+
+h2, h1{
+    color: rgb(0, 85, 123);
+    background-color: rgb(196, 196, 196);
+}
+
+
+.h1-titulo{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    letter-spacing: 13px;
+    text-align: center;
+
+}
+
+h2{
+    padding-left: 15px;
+    margin: 30px 0px 30px 0px;
+
+}
+
+.cont-h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    letter-spacing: 13px;
+    text-align: left;
+    width: 1041px;
+    margin-left: 100px;
+}
+
+.h2datos{
+    margin-top: 100px;
+}
+
+.lista{
+    text-decoration: none;
+    margin-left: 150px;
+}
+
+.lista1{
+    margin-left: 230px;
+}
+
+.redes-footer{
+    background-color: rgb(0, 85, 123);
+    position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 850px;
+}
+
+
+.p-footer{
+    color: white;
+    position: absolute;
+width: 145px;
+height: 17px;
+left: 601px;
+top: 10px;
+
+font-family: Times New Roman;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 84.69%;
+}
+
+.footer-redes{
+    color: white;
+    position: absolute;
+width: 20px;
+height: 20px;
+left: 772px;
+top: 10px;
+}
+
+.redes1{
+position: absolute;
+width: 20px;
+height: 20px;
+left: 818px;
+top: 10px;
+}
